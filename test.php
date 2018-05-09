@@ -1,4 +1,4 @@
 <?php
-	echo "Thà đeoh trai";
+	echo "Thà gsdgsdgsd";
 ?>
 
