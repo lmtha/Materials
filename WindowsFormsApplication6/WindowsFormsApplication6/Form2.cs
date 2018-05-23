@@ -53,7 +53,7 @@ namespace WindowsFormsApplication6
                     lb.TextAlign = ContentAlignment.MiddleCenter;
                     lb.AutoSize = false;
                      NumericUpDown nd = new NumericUpDown();
-                     nd.Location = new Point(pb.Width / 2 - 30 , pb.Height + lb.Height + 4);
+                     nd.Location = new Point(pb.Width / 2 - 35, pb.Height + lb.Height + 4 + 6 + nd.Height);
                      nd.Width = 40;
                      Button btn = new Button();
                      btn.BackColor = color1;
@@ -66,40 +66,35 @@ namespace WindowsFormsApplication6
                     btn.TextAlign = ContentAlignment.MiddleCenter;
                     btn.ForeColor = Color.White;
                     btn.FlatStyle = FlatStyle.Flat;
-                    CheckBox cb1 = new CheckBox();
-                    cb1.Text = "Vỏ dày";
-                    cb1.AutoSize = true;
-                    cb1.Location = new Point(pb.Width / 2 + nd.Width + 10 , pb.Height + lb.Height + 4);
-                    CheckBox cb2 = new CheckBox();
-                    cb2.Text = "Vỏ giòn";
-                    cb2.AutoSize = true;
-                    cb2.Location = new Point(pb.Width / 2 + nd.Width + cb1.Width, pb.Height + lb.Height + 4);
-                    CheckBox cb3 = new CheckBox();
-                    cb3.Text = "Size nhỏ";
-                    cb3.AutoSize = true;
-                    cb3.Location = new Point(pb.Width / 2 + nd.Width + 10, pb.Height + lb.Height + 4 + cb1.Height + 3);
-                    CheckBox cb4 = new CheckBox();
-                    cb4.Text = "Size lớn";
-                    cb4.AutoSize = true;
-                    cb4.Location = new Point(pb.Width / 2 + nd.Width + cb1.Width, pb.Height + lb.Height + 4 + 3 +cb2.Height);
-                    CheckBox cb5 = new CheckBox();
-                    cb5.Text = "Size vừa";
-                    cb5.AutoSize = true;
-                    cb5.Location = new Point(pb.Width / 2 - 30, pb.Height + lb.Height + 4 + 6 + nd.Height);
-                    cb1.ForeColor = Color.White;
-                    cb2.ForeColor = Color.White;
-                    cb3.ForeColor = Color.White;
-                    cb4.ForeColor = Color.White;
-                    cb5.ForeColor = Color.White;
+                    ComboBox cb1 = new ComboBox();
+                    cb1.Text = "Vỏ dày";             
+                    cb1.Items.Add("Vỏ giòn");
+                    cb1.Font = new Font("Times New Roman", 10.0F, FontStyle.Bold);
+                    cb1.ForeColor = Color.Black;                
+                    cb1.Location = new Point(pb.Width / 2 + nd.Width + 40 , pb.Height + lb.Height + 4);
+                    ComboBox cb2 = new ComboBox();
+                    cb2.Text = "Size nhỏ";
+                    cb2.Items.Add("Size vừa");
+                    cb2.Items.Add("Size lớn");
+                    cb2.Font = new Font("Times New Roman", 10.0F, FontStyle.Bold);
+                    cb2.ForeColor = Color.Black;
+                    cb2.Location = new Point(pb.Width / 2 + nd.Width + 40, pb.Height + lb.Height + 4 + cb1.Height + 3);
+                  
+               
+                    Label lbl2 = new Label();
+                    lbl2.Location = new Point(pb.Width / 2 - 40, pb.Height + lb.Height + 4);
+                    lbl2.Text = "Giá: 240,000đ";
+                    lbl2.AutoSize = true;
+                    lbl2.ForeColor = Color.White;
+                    lbl2.Font = new Font("Times New Roman", 12.0F, FontStyle.Bold);
+                
                     pn.BackColor = color;
                     pn.Controls.Add(pb);
                     pn.Controls.Add(lb);
                     pn.Controls.Add(nd);
                     pn.Controls.Add(cb1);
                     pn.Controls.Add(cb2);
-                    pn.Controls.Add(cb3);
-                    pn.Controls.Add(cb4);
-                    pn.Controls.Add(cb5);
+                    pn.Controls.Add(lbl2);
                     pn.Controls.Add(btn);
                     pnDish.Controls.Add(pn, j, i);
                 }
@@ -141,17 +136,26 @@ namespace WindowsFormsApplication6
                     Color color1 = System.Drawing.ColorTranslator.FromHtml("#cb1732");
 
                     Label lb = new Label();
-                    lb.Text = "Coca Cola";
+                    lb.Text = "Nước ngọt Pepsi";
                     lb.Location = new Point(pb.Width / 2 + 20, pb.Height + 2);
                     lb.ForeColor = Color.White;
                     lb.Font = new Font("Times New Roman", 12.0F, FontStyle.Bold);
                     lb.TextAlign = ContentAlignment.MiddleCenter;
-                    lb.AutoSize = false;
+                    lb.AutoSize = true;
+                    Label lbl2 = new Label();
+                    lbl2.Location = new Point(pb.Width / 2 + 20, pb.Height + lb.Height + 10);
+                    lbl2.Text = "Giá: 20,000đ";
+                    lbl2.AutoSize = false;
+                    lbl2.ForeColor = Color.White;
+                    lbl2.Font = new Font("Times New Roman", 12.0F, FontStyle.Bold);
+                    lbl2.Height = 60;
                     NumericUpDown nd = new NumericUpDown();
-                    nd.Location = new Point(pb.Width / 2 + 20, pb.Height + lb.Height + 2);
+                    nd.Location = new Point((pb.Width / 2) + lbl2.Width + 40, pb.Height + lb.Height + 10);
+                    nd.Width = 50;
+
                     Button btn = new Button();
                     btn.BackColor = color1;
-                    btn.Location = new Point(20, 174);
+                    btn.Location = new Point(20, 194);
                     btn.AutoSize = true;
                     btn.Width = 230;
                     btn.Height = 30;
@@ -165,6 +169,7 @@ namespace WindowsFormsApplication6
                     pn.Controls.Add(lb);
                     pn.Controls.Add(nd);
                     pn.Controls.Add(btn);
+                    pn.Controls.Add(lbl2);
                     pnDrink.Controls.Add(pn, j, i);
                 }
             }
@@ -190,6 +195,63 @@ namespace WindowsFormsApplication6
             var form4 = new Form4();
             form4.Closed += (s, args) => this.Close();
             form4.Show();
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            pnDish.Controls.Clear();
+            for (int i = 0; i < pnDish.RowCount; i++)
+            {
+                for (int j = 0; j < pnDish.ColumnCount; j++)
+                {
+                    Panel pn = new Panel();
+                    PictureBox pb = new PictureBox();
+                    pb.Image = Image.FromFile("C:/Users/thale/Desktop/images/103747166-PepsiCo-Diet-Cola-Portfolio.530x298.jpg");
+                    pb.SizeMode = PictureBoxSizeMode.StretchImage;
+                    pb.Height = 120;
+                    pb.Dock = DockStyle.Top;
+                    pn.Dock = DockStyle.Fill;
+                    Color color = System.Drawing.ColorTranslator.FromHtml("#017db4");
+                    Color color1 = System.Drawing.ColorTranslator.FromHtml("#cb1732");
+
+                    Label lb = new Label();
+                    lb.Text = "Nước ngọt Pepsi";
+                    lb.Location = new Point(pb.Width / 2 + 20, pb.Height + 2);
+                    lb.ForeColor = Color.White;
+                    lb.Font = new Font("Times New Roman", 12.0F, FontStyle.Bold);
+                    lb.TextAlign = ContentAlignment.MiddleCenter;
+                    lb.AutoSize = true;
+                    Label lbl2 = new Label();
+                    lbl2.Location = new Point(pb.Width / 2 + 20, pb.Height + lb.Height + 10);
+                    lbl2.Text = "Giá: 20,000đ";
+                    lbl2.AutoSize = false;
+                    lbl2.ForeColor = Color.White;
+                    lbl2.Font = new Font("Times New Roman", 12.0F, FontStyle.Bold);
+                    lbl2.Height = 60;
+                    NumericUpDown nd = new NumericUpDown();
+                    nd.Location = new Point((pb.Width / 2) + lbl2.Width + 40, pb.Height + lb.Height + 10);
+                    nd.Width = 50;
+
+                    Button btn = new Button();
+                    btn.BackColor = color1;
+                    btn.Location = new Point(20, 194);
+                    btn.AutoSize = true;
+                    btn.Width = 230;
+                    btn.Height = 30;
+                    btn.Text = "Đặt hàng";
+                    btn.Font = new Font("Times New Roman", 12.0F, FontStyle.Bold);
+                    btn.TextAlign = ContentAlignment.MiddleCenter;
+                    btn.ForeColor = Color.White;
+                    btn.FlatStyle = FlatStyle.Flat;
+                    pn.BackColor = color;
+                    pn.Controls.Add(pb);
+                    pn.Controls.Add(lb);
+                    pn.Controls.Add(nd);
+                    pn.Controls.Add(btn);
+                    pn.Controls.Add(lbl2);
+                    pnDish.Controls.Add(pn, j, i);
+                }
+            }
         }
     }
 }
