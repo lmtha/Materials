@@ -251,6 +251,7 @@
             this.pnDish.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 50F));
             this.pnDish.Size = new System.Drawing.Size(1126, 502);
             this.pnDish.TabIndex = 0;
+            this.pnDish.Paint += new System.Windows.Forms.PaintEventHandler(this.pnDish_Paint);
             // 
             // tabPage2
             // 

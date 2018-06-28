@@ -44,7 +44,8 @@ namespace WindowsFormsApplication6
                     pn.Dock = DockStyle.Fill;
                     Color color = System.Drawing.ColorTranslator.FromHtml("#017db4");
                     Color color1 = System.Drawing.ColorTranslator.FromHtml("#cb1732");
-                   
+
+                    
                     Label lb = new Label();
                     lb.Text = "Pizza hải sản";
                     lb.Location = new Point(pb.Width/2 + 20,pb.Height + 2);
@@ -252,6 +253,11 @@ namespace WindowsFormsApplication6
                     pnDish.Controls.Add(pn, j, i);
                 }
             }
+        }
+
+        private void pnDish_Paint(object sender, PaintEventArgs e)
+        {
+
         }
     }
 }
