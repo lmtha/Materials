@@ -1,0 +1,51 @@
+D:\EDUCATION\Nam III\HKII\An toan va bao mat du lieu trong HTTT\Do an\QuanLyBenhVien\QuanLyBenhVien\bin\Debug\QuanLyBenhVien.exe.config
+D:\EDUCATION\Nam III\HKII\An toan va bao mat du lieu trong HTTT\Do an\QuanLyBenhVien\QuanLyBenhVien\bin\Debug\QuanLyBenhVien.exe
+D:\EDUCATION\Nam III\HKII\An toan va bao mat du lieu trong HTTT\Do an\QuanLyBenhVien\QuanLyBenhVien\bin\Debug\QuanLyBenhVien.pdb
+D:\EDUCATION\Nam III\HKII\An toan va bao mat du lieu trong HTTT\Do an\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.csprojResolveAssemblyReference.cache
+D:\EDUCATION\Nam III\HKII\An toan va bao mat du lieu trong HTTT\Do an\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.Properties.Resources.resources
+D:\EDUCATION\Nam III\HKII\An toan va bao mat du lieu trong HTTT\Do an\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.csproj.GenerateResource.Cache
+D:\EDUCATION\Nam III\HKII\An toan va bao mat du lieu trong HTTT\Do an\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.exe
+D:\EDUCATION\Nam III\HKII\An toan va bao mat du lieu trong HTTT\Do an\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.pdb
+D:\EDUCATION\Nam III\HKII\An toan va bao mat du lieu trong HTTT\Do an\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.fLogin.resources
+D:\EDUCATION\Nam III\HKII\An toan va bao mat du lieu trong HTTT\Do an\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.fAdmin.resources
+D:\EDUCATION\Nam III\HKII\An toan va bao mat du lieu trong HTTT\Do an\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.fUserInfo.resources
+D:\EDUCATION\Nam III\HKII\An toan va bao mat du lieu trong HTTT\Do an\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.fUserManage.resources
+D:\EDUCATION\Nam III\HKII\An toan va bao mat du lieu trong HTTT\Do an\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.fUserInsert.resources
+D:\EDUCATION\Nam III\HKII\An toan va bao mat du lieu trong HTTT\Do an\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.fUserAlter.resources
+D:\EDUCATION\Nam III\HKII\An toan va bao mat du lieu trong HTTT\Do an\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.fUserDelete.resources
+D:\EDUCATION\Nam III\HKII\An toan va bao mat du lieu trong HTTT\Do an\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.fUserRole.resources
+D:\EDUCATION\Nam III\HKII\An toan va bao mat du lieu trong HTTT\Do an\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.fUserPrivileges.resources
+C:\Users\thale\Downloads\Documents\Nhom16\QuanLyBenhVien\QuanLyBenhVien\bin\Debug\QuanLyBenhVien.exe.config
+C:\Users\thale\Downloads\Documents\Nhom16\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.exe
+C:\Users\thale\Downloads\Documents\Nhom16\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.pdb
+C:\Users\thale\Downloads\Documents\Nhom16\QuanLyBenhVien\QuanLyBenhVien\bin\Debug\Oracle.DataAccess.dll
+C:\Users\thale\Downloads\Documents\Nhom16\QuanLyBenhVien\QuanLyBenhVien\bin\Debug\QuanLyBenhVien.exe
+C:\Users\thale\Downloads\Documents\Nhom16\QuanLyBenhVien\QuanLyBenhVien\bin\Debug\QuanLyBenhVien.pdb
+C:\Users\thale\Downloads\Documents\Nhom16\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.csprojResolveAssemblyReference.cache
+C:\Users\thale\Downloads\Documents\Nhom16\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.ChinhSuaQuyen.resources
+C:\Users\thale\Downloads\Documents\Nhom16\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.fAdmin.resources
+C:\Users\thale\Downloads\Documents\Nhom16\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.fBacSi.resources
+C:\Users\thale\Downloads\Documents\Nhom16\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.fBanThuoc.resources
+C:\Users\thale\Downloads\Documents\Nhom16\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.fDichVu.resources
+C:\Users\thale\Downloads\Documents\Nhom16\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.fKeToan.resources
+C:\Users\thale\Downloads\Documents\Nhom16\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.fKyThuatVien.resources
+C:\Users\thale\Downloads\Documents\Nhom16\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.fLogin.resources
+C:\Users\thale\Downloads\Documents\Nhom16\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.fNhatKy.resources
+C:\Users\thale\Downloads\Documents\Nhom16\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.fQLChuyenMon.resources
+C:\Users\thale\Downloads\Documents\Nhom16\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.fQLTaiNguyenNhanSu.resources
+C:\Users\thale\Downloads\Documents\Nhom16\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.fQLTaiVu.resources
+C:\Users\thale\Downloads\Documents\Nhom16\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.fTaiVu.resources
+C:\Users\thale\Downloads\Documents\Nhom16\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.fThongTinNV.resources
+C:\Users\thale\Downloads\Documents\Nhom16\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.fThuoc.resources
+C:\Users\thale\Downloads\Documents\Nhom16\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.fTiepTanDieuPhoi.resources
+C:\Users\thale\Downloads\Documents\Nhom16\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.fUserAlter.resources
+C:\Users\thale\Downloads\Documents\Nhom16\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.fUserDelete.resources
+C:\Users\thale\Downloads\Documents\Nhom16\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.fUserInfo.resources
+C:\Users\thale\Downloads\Documents\Nhom16\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.fUserInsert.resources
+C:\Users\thale\Downloads\Documents\Nhom16\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.fUserManage.resources
+C:\Users\thale\Downloads\Documents\Nhom16\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.fUserPrivileges.resources
+C:\Users\thale\Downloads\Documents\Nhom16\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.fUserRole.resources
+C:\Users\thale\Downloads\Documents\Nhom16\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.Message.resources
+C:\Users\thale\Downloads\Documents\Nhom16\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.Properties.Resources.resources
+C:\Users\thale\Downloads\Documents\Nhom16\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.csproj.GenerateResource.Cache
+C:\Users\thale\Downloads\Documents\Nhom16\QuanLyBenhVien\QuanLyBenhVien\bin\Debug\Oracle.ManagedDataAccess.dll

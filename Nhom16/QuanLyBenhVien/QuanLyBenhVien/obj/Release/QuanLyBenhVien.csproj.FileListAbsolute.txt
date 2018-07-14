@@ -1,0 +1,110 @@
+D:\EDUCATION\Nam III\HKII\An toan va bao mat du lieu trong HTTT\Do an\QuanLyBenhVien\QuanLyBenhVien\bin\Release\QuanLyBenhVien.exe.config
+D:\EDUCATION\Nam III\HKII\An toan va bao mat du lieu trong HTTT\Do an\QuanLyBenhVien\QuanLyBenhVien\bin\Release\QuanLyBenhVien.exe
+D:\EDUCATION\Nam III\HKII\An toan va bao mat du lieu trong HTTT\Do an\QuanLyBenhVien\QuanLyBenhVien\bin\Release\QuanLyBenhVien.pdb
+D:\EDUCATION\Nam III\HKII\An toan va bao mat du lieu trong HTTT\Do an\QuanLyBenhVien\QuanLyBenhVien\obj\Release\QuanLyBenhVien.fAdmin.resources
+D:\EDUCATION\Nam III\HKII\An toan va bao mat du lieu trong HTTT\Do an\QuanLyBenhVien\QuanLyBenhVien\obj\Release\QuanLyBenhVien.fLogin.resources
+D:\EDUCATION\Nam III\HKII\An toan va bao mat du lieu trong HTTT\Do an\QuanLyBenhVien\QuanLyBenhVien\obj\Release\QuanLyBenhVien.fUserAlter.resources
+D:\EDUCATION\Nam III\HKII\An toan va bao mat du lieu trong HTTT\Do an\QuanLyBenhVien\QuanLyBenhVien\obj\Release\QuanLyBenhVien.fUserDelete.resources
+D:\EDUCATION\Nam III\HKII\An toan va bao mat du lieu trong HTTT\Do an\QuanLyBenhVien\QuanLyBenhVien\obj\Release\QuanLyBenhVien.fUserInfo.resources
+D:\EDUCATION\Nam III\HKII\An toan va bao mat du lieu trong HTTT\Do an\QuanLyBenhVien\QuanLyBenhVien\obj\Release\QuanLyBenhVien.fUserInsert.resources
+D:\EDUCATION\Nam III\HKII\An toan va bao mat du lieu trong HTTT\Do an\QuanLyBenhVien\QuanLyBenhVien\obj\Release\QuanLyBenhVien.fUserManage.resources
+D:\EDUCATION\Nam III\HKII\An toan va bao mat du lieu trong HTTT\Do an\QuanLyBenhVien\QuanLyBenhVien\obj\Release\QuanLyBenhVien.fUserPrivileges.resources
+D:\EDUCATION\Nam III\HKII\An toan va bao mat du lieu trong HTTT\Do an\QuanLyBenhVien\QuanLyBenhVien\obj\Release\QuanLyBenhVien.fUserRole.resources
+D:\EDUCATION\Nam III\HKII\An toan va bao mat du lieu trong HTTT\Do an\QuanLyBenhVien\QuanLyBenhVien\obj\Release\QuanLyBenhVien.Properties.Resources.resources
+D:\EDUCATION\Nam III\HKII\An toan va bao mat du lieu trong HTTT\Do an\QuanLyBenhVien\QuanLyBenhVien\obj\Release\QuanLyBenhVien.csproj.GenerateResource.Cache
+D:\EDUCATION\Nam III\HKII\An toan va bao mat du lieu trong HTTT\Do an\QuanLyBenhVien\QuanLyBenhVien\obj\Release\QuanLyBenhVien.exe
+D:\EDUCATION\Nam III\HKII\An toan va bao mat du lieu trong HTTT\Do an\QuanLyBenhVien\QuanLyBenhVien\obj\Release\QuanLyBenhVien.pdb
+D:\EDUCATION\Nam III\HKII\An toan va bao mat du lieu trong HTTT\Do an\QuanLyBenhVien\QuanLyBenhVien\obj\Release\QuanLyBenhVien.csprojResolveAssemblyReference.cache
+D:\EDUCATION\Nam III\HKII\An toan va bao mat du lieu trong HTTT\Do an\QuanLyBenhVien\QuanLyBenhVien\obj\Release\QuanLyBenhVien.fTiepTanDieuPhoi.resources
+D:\EDUCATION\Nam III\HKII\An toan va bao mat du lieu trong HTTT\Do an\QuanLyBenhVien\QuanLyBenhVien\obj\Release\QuanLyBenhVien.fBacSi.resources
+D:\EDUCATION\Nam III\HKII\An toan va bao mat du lieu trong HTTT\Do an\QuanLyBenhVien\QuanLyBenhVien\obj\Release\QuanLyBenhVien.fTaiVu.resources
+D:\EDUCATION\Nam III\HKII\An toan va bao mat du lieu trong HTTT\Do an\QuanLyBenhVien\QuanLyBenhVien\obj\Release\QuanLyBenhVien.fBanThuoc.resources
+D:\EDUCATION\Nam III\HKII\An toan va bao mat du lieu trong HTTT\Do an\QuanLyBenhVien\QuanLyBenhVien\obj\Release\QuanLyBenhVien.fKeToan.resources
+D:\EDUCATION\Nam III\HKII\An toan va bao mat du lieu trong HTTT\Do an\QuanLyBenhVien\QuanLyBenhVien\obj\Release\QuanLyBenhVien.fQLTaiNguyenNhanSu.resources
+D:\EDUCATION\Nam III\HKII\An toan va bao mat du lieu trong HTTT\Do an\QuanLyBenhVien\QuanLyBenhVien\obj\Release\QuanLyBenhVien.fQLTaiVu.resources
+D:\EDUCATION\Nam III\HKII\An toan va bao mat du lieu trong HTTT\Do an\QuanLyBenhVien\QuanLyBenhVien\obj\Release\QuanLyBenhVien.fQLChuyenMon.resources
+D:\EDUCATION\Nam III\HKII\An toan va bao mat du lieu trong HTTT\Do an\QuanLyBenhVien\QuanLyBenhVien\obj\Release\QuanLyBenhVien.fKyThuatVien.resources
+C:\Users\thale\Downloads\Documents\QuanLyBenhVien\QuanLyBenhVien\bin\Release\QuanLyBenhVien.exe.config
+C:\Users\thale\Downloads\Documents\QuanLyBenhVien\QuanLyBenhVien\obj\Release\QuanLyBenhVien.exe
+C:\Users\thale\Downloads\Documents\QuanLyBenhVien\QuanLyBenhVien\obj\Release\QuanLyBenhVien.pdb
+C:\Users\thale\Downloads\Documents\QuanLyBenhVien\QuanLyBenhVien\bin\Release\QuanLyBenhVien.exe
+C:\Users\thale\Downloads\Documents\QuanLyBenhVien\QuanLyBenhVien\bin\Release\QuanLyBenhVien.pdb
+C:\Users\thale\Downloads\Documents\QuanLyBenhVien\QuanLyBenhVien\obj\Release\QuanLyBenhVien.csprojResolveAssemblyReference.cache
+C:\Users\thale\Downloads\Documents\QuanLyBenhVien\QuanLyBenhVien\obj\Release\QuanLyBenhVien.fAdmin.resources
+C:\Users\thale\Downloads\Documents\QuanLyBenhVien\QuanLyBenhVien\obj\Release\QuanLyBenhVien.fBacSi.resources
+C:\Users\thale\Downloads\Documents\QuanLyBenhVien\QuanLyBenhVien\obj\Release\QuanLyBenhVien.fBanThuoc.resources
+C:\Users\thale\Downloads\Documents\QuanLyBenhVien\QuanLyBenhVien\obj\Release\QuanLyBenhVien.fKeToan.resources
+C:\Users\thale\Downloads\Documents\QuanLyBenhVien\QuanLyBenhVien\obj\Release\QuanLyBenhVien.fKyThuatVien.resources
+C:\Users\thale\Downloads\Documents\QuanLyBenhVien\QuanLyBenhVien\obj\Release\QuanLyBenhVien.fLogin.resources
+C:\Users\thale\Downloads\Documents\QuanLyBenhVien\QuanLyBenhVien\obj\Release\QuanLyBenhVien.fQLChuyenMon.resources
+C:\Users\thale\Downloads\Documents\QuanLyBenhVien\QuanLyBenhVien\obj\Release\QuanLyBenhVien.fQLTaiNguyenNhanSu.resources
+C:\Users\thale\Downloads\Documents\QuanLyBenhVien\QuanLyBenhVien\obj\Release\QuanLyBenhVien.fQLTaiVu.resources
+C:\Users\thale\Downloads\Documents\QuanLyBenhVien\QuanLyBenhVien\obj\Release\QuanLyBenhVien.fTaiVu.resources
+C:\Users\thale\Downloads\Documents\QuanLyBenhVien\QuanLyBenhVien\obj\Release\QuanLyBenhVien.fTiepTanDieuPhoi.resources
+C:\Users\thale\Downloads\Documents\QuanLyBenhVien\QuanLyBenhVien\obj\Release\QuanLyBenhVien.fUserAlter.resources
+C:\Users\thale\Downloads\Documents\QuanLyBenhVien\QuanLyBenhVien\obj\Release\QuanLyBenhVien.fUserDelete.resources
+C:\Users\thale\Downloads\Documents\QuanLyBenhVien\QuanLyBenhVien\obj\Release\QuanLyBenhVien.fUserInfo.resources
+C:\Users\thale\Downloads\Documents\QuanLyBenhVien\QuanLyBenhVien\obj\Release\QuanLyBenhVien.fUserInsert.resources
+C:\Users\thale\Downloads\Documents\QuanLyBenhVien\QuanLyBenhVien\obj\Release\QuanLyBenhVien.fUserManage.resources
+C:\Users\thale\Downloads\Documents\QuanLyBenhVien\QuanLyBenhVien\obj\Release\QuanLyBenhVien.fUserPrivileges.resources
+C:\Users\thale\Downloads\Documents\QuanLyBenhVien\QuanLyBenhVien\obj\Release\QuanLyBenhVien.fUserRole.resources
+C:\Users\thale\Downloads\Documents\QuanLyBenhVien\QuanLyBenhVien\obj\Release\QuanLyBenhVien.Properties.Resources.resources
+C:\Users\thale\Downloads\Documents\QuanLyBenhVien\QuanLyBenhVien\obj\Release\QuanLyBenhVien.csproj.GenerateResource.Cache
+C:\Users\thale\Downloads\Documents\QuanLyBenhVien\QuanLyBenhVien\bin\Release\Oracle.DataAccess.dll
+C:\Users\thale\Downloads\Documents\QuanLyBenhVien\QuanLyBenhVien\bin\Release\oci.dll
+C:\Users\thale\Downloads\Documents\QuanLyBenhVien\QuanLyBenhVien\bin\Release\oramts.dll
+C:\Users\thale\Downloads\Documents\QuanLyBenhVien\QuanLyBenhVien\bin\Release\oramts12.dll
+C:\Users\thale\Downloads\Documents\QuanLyBenhVien\QuanLyBenhVien\bin\Release\oramtsus.dll
+C:\Users\thale\Downloads\Documents\QuanLyBenhVien\QuanLyBenhVien\bin\Release\orannzsbb12.dll
+C:\Users\thale\Downloads\Documents\QuanLyBenhVien\QuanLyBenhVien\bin\Release\oraocci12.dll
+C:\Users\thale\Downloads\Documents\QuanLyBenhVien\QuanLyBenhVien\bin\Release\oraocci12d.dll
+C:\Users\thale\Downloads\Documents\QuanLyBenhVien\QuanLyBenhVien\bin\Release\oraociei12.dll
+C:\Users\thale\Downloads\Documents\QuanLyBenhVien\QuanLyBenhVien\bin\Release\oraons.dll
+C:\Users\thale\Downloads\Documents\QuanLyBenhVien\QuanLyBenhVien\bin\Release\OraOps12.dll
+C:\Users\thale\Downloads\Documents\QuanLyBenhVien\QuanLyBenhVien\obj\Release\QuanLyBenhVien.fNhatKy.resources
+C:\Users\thale\Downloads\Documents\QuanLyBenhVien\QuanLyBenhVien\obj\Release\QuanLyBenhVien.fDichVu.resources
+C:\Users\thale\Downloads\Documents\QuanLyBenhVien\QuanLyBenhVien\obj\Release\QuanLyBenhVien.fThuoc.resources
+C:\Users\thale\Downloads\Documents\QuanLyBenhVien\QuanLyBenhVien\obj\Release\QuanLyBenhVien.fThongTinNV.resources
+C:\Users\thale\Downloads\Documents\QuanLyBenhVien\QuanLyBenhVien\obj\Release\QuanLyBenhVien.ChinhSuaQuyen.resources
+C:\Users\thale\Downloads\Documents\QuanLyBenhVien\QuanLyBenhVien\obj\Release\QuanLyBenhVien.Message.resources
+C:\Users\thale\Downloads\Documents\Nhom16\QuanLyBenhVien\QuanLyBenhVien\bin\Release\QuanLyBenhVien.exe.config
+C:\Users\thale\Downloads\Documents\Nhom16\QuanLyBenhVien\QuanLyBenhVien\obj\Release\QuanLyBenhVien.exe
+C:\Users\thale\Downloads\Documents\Nhom16\QuanLyBenhVien\QuanLyBenhVien\obj\Release\QuanLyBenhVien.pdb
+C:\Users\thale\Downloads\Documents\Nhom16\QuanLyBenhVien\QuanLyBenhVien\bin\Release\Oracle.DataAccess.dll
+C:\Users\thale\Downloads\Documents\Nhom16\QuanLyBenhVien\QuanLyBenhVien\bin\Release\oci.dll
+C:\Users\thale\Downloads\Documents\Nhom16\QuanLyBenhVien\QuanLyBenhVien\bin\Release\oramts.dll
+C:\Users\thale\Downloads\Documents\Nhom16\QuanLyBenhVien\QuanLyBenhVien\bin\Release\oramts12.dll
+C:\Users\thale\Downloads\Documents\Nhom16\QuanLyBenhVien\QuanLyBenhVien\bin\Release\oramtsus.dll
+C:\Users\thale\Downloads\Documents\Nhom16\QuanLyBenhVien\QuanLyBenhVien\bin\Release\orannzsbb12.dll
+C:\Users\thale\Downloads\Documents\Nhom16\QuanLyBenhVien\QuanLyBenhVien\bin\Release\oraocci12.dll
+C:\Users\thale\Downloads\Documents\Nhom16\QuanLyBenhVien\QuanLyBenhVien\bin\Release\oraocci12d.dll
+C:\Users\thale\Downloads\Documents\Nhom16\QuanLyBenhVien\QuanLyBenhVien\bin\Release\oraociei12.dll
+C:\Users\thale\Downloads\Documents\Nhom16\QuanLyBenhVien\QuanLyBenhVien\bin\Release\oraons.dll
+C:\Users\thale\Downloads\Documents\Nhom16\QuanLyBenhVien\QuanLyBenhVien\bin\Release\OraOps12.dll
+C:\Users\thale\Downloads\Documents\Nhom16\QuanLyBenhVien\QuanLyBenhVien\obj\Release\QuanLyBenhVien.csprojResolveAssemblyReference.cache
+C:\Users\thale\Downloads\Documents\Nhom16\QuanLyBenhVien\QuanLyBenhVien\obj\Release\QuanLyBenhVien.ChinhSuaQuyen.resources
+C:\Users\thale\Downloads\Documents\Nhom16\QuanLyBenhVien\QuanLyBenhVien\obj\Release\QuanLyBenhVien.fAdmin.resources
+C:\Users\thale\Downloads\Documents\Nhom16\QuanLyBenhVien\QuanLyBenhVien\obj\Release\QuanLyBenhVien.fBacSi.resources
+C:\Users\thale\Downloads\Documents\Nhom16\QuanLyBenhVien\QuanLyBenhVien\obj\Release\QuanLyBenhVien.fBanThuoc.resources
+C:\Users\thale\Downloads\Documents\Nhom16\QuanLyBenhVien\QuanLyBenhVien\obj\Release\QuanLyBenhVien.fDichVu.resources
+C:\Users\thale\Downloads\Documents\Nhom16\QuanLyBenhVien\QuanLyBenhVien\obj\Release\QuanLyBenhVien.fKeToan.resources
+C:\Users\thale\Downloads\Documents\Nhom16\QuanLyBenhVien\QuanLyBenhVien\obj\Release\QuanLyBenhVien.fKyThuatVien.resources
+C:\Users\thale\Downloads\Documents\Nhom16\QuanLyBenhVien\QuanLyBenhVien\obj\Release\QuanLyBenhVien.fLogin.resources
+C:\Users\thale\Downloads\Documents\Nhom16\QuanLyBenhVien\QuanLyBenhVien\obj\Release\QuanLyBenhVien.fNhatKy.resources
+C:\Users\thale\Downloads\Documents\Nhom16\QuanLyBenhVien\QuanLyBenhVien\obj\Release\QuanLyBenhVien.fQLChuyenMon.resources
+C:\Users\thale\Downloads\Documents\Nhom16\QuanLyBenhVien\QuanLyBenhVien\obj\Release\QuanLyBenhVien.fQLTaiNguyenNhanSu.resources
+C:\Users\thale\Downloads\Documents\Nhom16\QuanLyBenhVien\QuanLyBenhVien\obj\Release\QuanLyBenhVien.fQLTaiVu.resources
+C:\Users\thale\Downloads\Documents\Nhom16\QuanLyBenhVien\QuanLyBenhVien\obj\Release\QuanLyBenhVien.fTaiVu.resources
+C:\Users\thale\Downloads\Documents\Nhom16\QuanLyBenhVien\QuanLyBenhVien\obj\Release\QuanLyBenhVien.fThongTinNV.resources
+C:\Users\thale\Downloads\Documents\Nhom16\QuanLyBenhVien\QuanLyBenhVien\obj\Release\QuanLyBenhVien.fThuoc.resources
+C:\Users\thale\Downloads\Documents\Nhom16\QuanLyBenhVien\QuanLyBenhVien\obj\Release\QuanLyBenhVien.fTiepTanDieuPhoi.resources
+C:\Users\thale\Downloads\Documents\Nhom16\QuanLyBenhVien\QuanLyBenhVien\obj\Release\QuanLyBenhVien.fUserAlter.resources
+C:\Users\thale\Downloads\Documents\Nhom16\QuanLyBenhVien\QuanLyBenhVien\obj\Release\QuanLyBenhVien.fUserDelete.resources
+C:\Users\thale\Downloads\Documents\Nhom16\QuanLyBenhVien\QuanLyBenhVien\obj\Release\QuanLyBenhVien.fUserInfo.resources
+C:\Users\thale\Downloads\Documents\Nhom16\QuanLyBenhVien\QuanLyBenhVien\obj\Release\QuanLyBenhVien.fUserInsert.resources
+C:\Users\thale\Downloads\Documents\Nhom16\QuanLyBenhVien\QuanLyBenhVien\obj\Release\QuanLyBenhVien.fUserManage.resources
+C:\Users\thale\Downloads\Documents\Nhom16\QuanLyBenhVien\QuanLyBenhVien\obj\Release\QuanLyBenhVien.fUserPrivileges.resources
+C:\Users\thale\Downloads\Documents\Nhom16\QuanLyBenhVien\QuanLyBenhVien\obj\Release\QuanLyBenhVien.fUserRole.resources
+C:\Users\thale\Downloads\Documents\Nhom16\QuanLyBenhVien\QuanLyBenhVien\obj\Release\QuanLyBenhVien.Message.resources
+C:\Users\thale\Downloads\Documents\Nhom16\QuanLyBenhVien\QuanLyBenhVien\obj\Release\QuanLyBenhVien.Properties.Resources.resources
+C:\Users\thale\Downloads\Documents\Nhom16\QuanLyBenhVien\QuanLyBenhVien\obj\Release\QuanLyBenhVien.csproj.GenerateResource.Cache

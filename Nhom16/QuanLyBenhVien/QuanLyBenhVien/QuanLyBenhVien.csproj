@@ -1,0 +1,331 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{42F143B2-773A-42E8-9FFB-F6B296DCADCC}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>QuanLyBenhVien</RootNamespace>
+    <AssemblyName>QuanLyBenhVien</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Oracle.DataAccess, Version=4.122.1.0, Culture=neutral, PublicKeyToken=89b483f429c47342, processorArchitecture=x86">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>.\Oracle.DataAccess.dll</HintPath>
+    </Reference>
+    <Reference Include="Oracle.ManagedDataAccess, Version=4.122.1.0, Culture=neutral, PublicKeyToken=89b483f429c47342, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>.\Oracle.ManagedDataAccess.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ChinhSuaQuyen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ChinhSuaQuyen.designer.cs">
+      <DependentUpon>ChinhSuaQuyen.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fAdmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fAdmin.Designer.cs">
+      <DependentUpon>fAdmin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fBacSi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fBacSi.Designer.cs">
+      <DependentUpon>fBacSi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fBanThuoc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fBanThuoc.designer.cs">
+      <DependentUpon>fBanThuoc.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fDichVu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fDichVu.Designer.cs">
+      <DependentUpon>fDichVu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fKeToan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fKeToan.Designer.cs">
+      <DependentUpon>fKeToan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fKyThuatVien.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fKyThuatVien.Designer.cs">
+      <DependentUpon>fKyThuatVien.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fLogin.Designer.cs">
+      <DependentUpon>fLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fNhatKy.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fNhatKy.designer.cs">
+      <DependentUpon>fNhatKy.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fQLChuyenMon.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fQLChuyenMon.Designer.cs">
+      <DependentUpon>fQLChuyenMon.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fQLTaiNguyenNhanSu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fQLTaiNguyenNhanSu.designer.cs">
+      <DependentUpon>fQLTaiNguyenNhanSu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fQLTaiVu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fQLTaiVu.designer.cs">
+      <DependentUpon>fQLTaiVu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fTaiVu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fTaiVu.designer.cs">
+      <DependentUpon>fTaiVu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fThongTinNV.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fThongTinNV.designer.cs">
+      <DependentUpon>fThongTinNV.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fThuoc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fThuoc.Designer.cs">
+      <DependentUpon>fThuoc.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fTiepTanDieuPhoi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fTiepTanDieuPhoi.Designer.cs">
+      <DependentUpon>fTiepTanDieuPhoi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fUserAlter.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fUserAlter.Designer.cs">
+      <DependentUpon>fUserAlter.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fUserDelete.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fUserDelete.Designer.cs">
+      <DependentUpon>fUserDelete.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fUserInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fUserInfo.Designer.cs">
+      <DependentUpon>fUserInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fUserInsert.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fUserInsert.Designer.cs">
+      <DependentUpon>fUserInsert.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fUserManage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fUserManage.Designer.cs">
+      <DependentUpon>fUserManage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fUserPrivileges.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fUserPrivileges.Designer.cs">
+      <DependentUpon>fUserPrivileges.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fUserRole.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fUserRole.Designer.cs">
+      <DependentUpon>fUserRole.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Message.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Message.Designer.cs">
+      <DependentUpon>Message.cs</DependentUpon>
+    </Compile>
+    <Compile Include="OracleDataProvider.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="ChinhSuaQuyen.resx">
+      <DependentUpon>ChinhSuaQuyen.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fAdmin.resx">
+      <DependentUpon>fAdmin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fBacSi.resx">
+      <DependentUpon>fBacSi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fBanThuoc.resx">
+      <DependentUpon>fBanThuoc.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fDichVu.resx">
+      <DependentUpon>fDichVu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fKeToan.resx">
+      <DependentUpon>fKeToan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fKyThuatVien.resx">
+      <DependentUpon>fKyThuatVien.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fLogin.resx">
+      <DependentUpon>fLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fNhatKy.resx">
+      <DependentUpon>fNhatKy.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fQLChuyenMon.resx">
+      <DependentUpon>fQLChuyenMon.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fQLTaiNguyenNhanSu.resx">
+      <DependentUpon>fQLTaiNguyenNhanSu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fQLTaiVu.resx">
+      <DependentUpon>fQLTaiVu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fTaiVu.resx">
+      <DependentUpon>fTaiVu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fThongTinNV.resx">
+      <DependentUpon>fThongTinNV.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fThuoc.resx">
+      <DependentUpon>fThuoc.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fTiepTanDieuPhoi.resx">
+      <DependentUpon>fTiepTanDieuPhoi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fUserAlter.resx">
+      <DependentUpon>fUserAlter.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fUserDelete.resx">
+      <DependentUpon>fUserDelete.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fUserInfo.resx">
+      <DependentUpon>fUserInfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fUserInsert.resx">
+      <DependentUpon>fUserInsert.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fUserManage.resx">
+      <DependentUpon>fUserManage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fUserPrivileges.resx">
+      <DependentUpon>fUserPrivileges.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fUserRole.resx">
+      <DependentUpon>fUserRole.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Message.resx">
+      <DependentUpon>Message.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="img\adminAva.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="img\userInfo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="img\userManage.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="img\report.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="img\changePass.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="img\exit.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Oracle.DataAccess.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Oracle.ManagedDataAccess.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
