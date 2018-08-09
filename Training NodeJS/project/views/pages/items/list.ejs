@@ -88,9 +88,9 @@
                                     <th>Action</th>
                                 </tr>
                             </thead>
-                            <tbody>
+                            <tbody>                          
                             <% items.forEach((item,index)=>{ 
-                                var status = (item.status == 1) ? "active" : "inactive";
+                                var status = (item.status == 1) ?   'success">active' : 'warning">inactive';
                             %>   
                                       <tr>
                                     <td>
@@ -100,7 +100,7 @@
                                     <td><%=item.name %></td>
                                     <td>
                                         <a href="#">
-                                            <span class="label label-success"><%=status %></span>
+                                            <span class="label label-<% __append(status) %></span>
                                         </a>
                                     </td>
                                     <td>
@@ -111,8 +111,7 @@
                                         <a href="#" type="button" class="btn btn-danger btn-sm btn-delete">Delete</a>
                                     </td>
                                 </tr>
-                            <% }) %>
-                          
+                            <% }) %>               
                             </tbody>
                         </table>
                     </div>
