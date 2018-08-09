@@ -4,9 +4,22 @@ var path = require('path');
 var cookieParser = require('cookie-parser');
 var logger = require('morgan');
 
+//Third-parties
 var expressLayouts = require('express-ejs-layouts');
+var mongoose = require('mongoose');
 
-var systemConfig = require('./config/system');
+//Self-create
+const systemConfig = require('./config/system');
+
+
+mongoose.connect('mongodb://minhtha:Hcmusk15@ds113692.mlab.com:13692/training_nodejs', { useNewUrlParser: true });
+var db = mongoose.connection;
+db.on('error', console.error.bind(console, 'CONNECTION FAIL:'));
+db.once('open', function() {
+  // we're connected!
+  console.log("CONNECTED");
+});
+
 
 var app = express();
 
@@ -26,6 +39,8 @@ app.use(express.static(path.join(__dirname, 'public')));
 
 
 app.locals.systemConfig = systemConfig;
+
+
 app.use(`/${systemConfig.prefixAdmin}`, require('./routes/backend/index'));
 app.use('/', require('./routes/frontend/index'));
 
