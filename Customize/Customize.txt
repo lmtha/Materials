@@ -4,4 +4,4 @@
 Enable color in terminal
 https://medium.com/@sahanarajasekar/5-ways-to-upgrade-your-terminal-2fb8ab447949
 https://gist.github.com/ZenLulz/c812f70fc86ebdbb189d9fb82f98197e
-Seti.terminal vs bullet-train.zsh-theme
+one dark.terminal vs agnoster.zsh-theme
