@@ -160,6 +160,9 @@ compdef _git ggpull=git-checkout
 alias ggpush='git push origin $(git_current_branch)'
 compdef _git ggpush=git-checkout
 
+alias ggpf='git push -f origin $(git_current_branch)'
+compdef _git ggpf=git-checkout
+
 alias ggsup='git branch --set-upstream-to=origin/$(git_current_branch)'
 alias gpsup='git push --set-upstream origin $(git_current_branch)'
 
@@ -256,4 +259,6 @@ alias gwch='git whatchanged -p --abbrev-commit --pretty=medium'
 alias gwip='git add -A; git rm $(git ls-files --deleted) 2> /dev/null; git commit --no-verify -m "--wip-- [skip ci]"'
 
 alias pi='pod install'
+alias mkdoc='apidoc -i apidoc/ -o public/apidoc'
 alias ni='npm install'
+alias nm='nodemon bin/www'
